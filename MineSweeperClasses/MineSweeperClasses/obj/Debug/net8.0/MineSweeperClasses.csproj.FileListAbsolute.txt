@@ -1,0 +1,12 @@
+C:\Users\Admin\Downloads\MineSweeperClasses\MineSweeperClasses\bin\Debug\net8.0\MineSweeperClasses.deps.json
+C:\Users\Admin\Downloads\MineSweeperClasses\MineSweeperClasses\bin\Debug\net8.0\MineSweeperClasses.dll
+C:\Users\Admin\Downloads\MineSweeperClasses\MineSweeperClasses\bin\Debug\net8.0\MineSweeperClasses.pdb
+C:\Users\Admin\Downloads\MineSweeperClasses\MineSweeperClasses\obj\Debug\net8.0\MineSweeperClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\MineSweeperClasses\MineSweeperClasses\obj\Debug\net8.0\MineSweeperClasses.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\MineSweeperClasses\MineSweeperClasses\obj\Debug\net8.0\MineSweeperClasses.AssemblyInfo.cs
+C:\Users\Admin\Downloads\MineSweeperClasses\MineSweeperClasses\obj\Debug\net8.0\MineSweeperClasses.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\MineSweeperClasses\MineSweeperClasses\obj\Debug\net8.0\MineSweeperClasses.sourcelink.json
+C:\Users\Admin\Downloads\MineSweeperClasses\MineSweeperClasses\obj\Debug\net8.0\MineSweeperClasses.dll
+C:\Users\Admin\Downloads\MineSweeperClasses\MineSweeperClasses\obj\Debug\net8.0\refint\MineSweeperClasses.dll
+C:\Users\Admin\Downloads\MineSweeperClasses\MineSweeperClasses\obj\Debug\net8.0\MineSweeperClasses.pdb
+C:\Users\Admin\Downloads\MineSweeperClasses\MineSweeperClasses\obj\Debug\net8.0\ref\MineSweeperClasses.dll

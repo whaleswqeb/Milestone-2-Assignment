@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MineSweeperClasses", "MineSweeperClasses\MineSweeperClasses.csproj", "{CCD24C69-6F85-4E59-A585-EC7AE000B4CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MineSweeperConsole", "MineSweeperConsole\MineSweeperConsole.csproj", "{4729BB65-A003-47CB-8A44-29EF94FBBA40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCD24C69-6F85-4E59-A585-EC7AE000B4CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCD24C69-6F85-4E59-A585-EC7AE000B4CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCD24C69-6F85-4E59-A585-EC7AE000B4CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCD24C69-6F85-4E59-A585-EC7AE000B4CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4729BB65-A003-47CB-8A44-29EF94FBBA40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4729BB65-A003-47CB-8A44-29EF94FBBA40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4729BB65-A003-47CB-8A44-29EF94FBBA40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4729BB65-A003-47CB-8A44-29EF94FBBA40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8419DC0-DA0F-4B61-A843-45E7F0705F9D}
+	EndGlobalSection
+EndGlobal
